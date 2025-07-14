@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vinícius
+# 👨‍💻 Vinícius
 
 **`Desenvolvedor FullStack`**
 
