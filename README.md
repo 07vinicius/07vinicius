@@ -44,7 +44,7 @@ Me chamo Vinícius Santos Camargo, tenho 18 anos e sou natural de Minas Gerais. 
     title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />      
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"     
 />
 <img 
     align="left" 
@@ -52,7 +52,7 @@ Me chamo Vinícius Santos Camargo, tenho 18 anos e sou natural de Minas Gerais. 
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"          
 />
 <img 
     align="left" 
@@ -60,7 +60,7 @@ Me chamo Vinícius Santos Camargo, tenho 18 anos e sou natural de Minas Gerais. 
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"           
 />
 <img 
     align="left" 
@@ -68,7 +68,7 @@ Me chamo Vinícius Santos Camargo, tenho 18 anos e sou natural de Minas Gerais. 
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />          
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"          
 />
 <img 
     align="left" 
@@ -76,7 +76,7 @@ Me chamo Vinícius Santos Camargo, tenho 18 anos e sou natural de Minas Gerais. 
     title="Arduino"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"           
 />
 <br/>
 <br/>
