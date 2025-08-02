@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vinícius Santos Camargo, tenho 18 anos e sou natural de Minas Gerais. Concluí o ensino médio no IFNMG, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFNMG.
+Me chamo Vinícius Santos Camargo, tenho 18 anos e sou natural de Minas Gerais. Sou apaixonado pela área de tecnologia e pela forma como ela pode resolver os desafios do dia a dia. Concluí o ensino médio e o curso técnico em Informática no IFNMG, onde adquiri minha experiência com o desenvolvimento de soluções. Atualmente, aprimoro meus conhecimentos na graduação de Análise e Desenvolvimento de Sistemas, também no IFNMG, com o objetivo de atuar na área e contribuir com projetos inovadores.
 
 ### 🤖 Linguagens e Tecnologias
 
