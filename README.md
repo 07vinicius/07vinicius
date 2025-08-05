@@ -24,11 +24,11 @@ Me chamo Vinícius Santos Camargo, tenho 18 anos e sou natural de Minas Gerais. 
 />
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"          
 />
 <img 
     align="left" 
@@ -98,7 +98,7 @@ Me chamo Vinícius Santos Camargo, tenho 18 anos e sou natural de Minas Gerais. 
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=07vinicius&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      scr="https://github-readme-stats.vercel.app/api/top-langs/?username=07vinicius&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
 </p>
