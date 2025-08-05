@@ -97,8 +97,7 @@ Me chamo Vinícius Santos Camargo, tenho 18 anos e sou natural de Minas Gerais. 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      style="padding-right: 10px;" 
-      scr="https://github-readme-stats.vercel.app/api/top-langs/?username=07vinicius&layout=compact&custom_title=Tecnologias"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=07vinicius&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
